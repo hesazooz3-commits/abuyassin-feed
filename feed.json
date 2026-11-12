@@ -14,5 +14,12 @@
   "notes": "",
   "killMessage": "",
   "message": "محمود",
-  "killed": false
+  "killed": false,
+  "messages": [
+    {
+      "id": "mmwdfa6g2",
+      "text": "بسم الله الرحمن الرحيم",
+      "time": 1794480374306
+    }
+  ]
 }
